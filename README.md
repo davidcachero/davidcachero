@@ -23,8 +23,6 @@
 ![Unity3D](https://img.shields.io/badge/Unity_3D-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-999999?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=101010)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcachero&theme=monokai&locale=en&layout=compact" width="50%" alt="davidcachero" /> 
-
 ### Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Cachero_Mezcua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-cachero-mezcua/)
