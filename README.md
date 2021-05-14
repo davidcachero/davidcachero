@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=76B6F7&lines=Hello%2C+my+name+is+David+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=76B6F7&lines=Hello%2C+my+name+is+David)](https://git.io/typing-svg)
 
 📍 From Madrid, in center Spain (Europe).
 
