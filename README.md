@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=76B6F7&lines=Hello%2C+my+name+is+David)](https://git.io/typing-svg)
 
-📍 From Madrid, in center Spain (Europe).
+📍 From Spain, Madrid.
 
-👨🏻‍💻 I am a software developer who is passionate about making code creating technology to build a community. </br>
+👨🏻‍💻 I am a software developer who is most passionate about creating technology for the community. </br>
 
 
 ### Skills:
