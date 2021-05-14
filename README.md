@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=50A6FF&size=18&width=456&lines=Hello%2C+my+name+is+David+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=50A6FF&size=10&width=456&lines=%F0%9F%93%8D+From+Spain%2C+Madrid.)](https://git.io/typing-svg)
-
 📍 From Spain, Madrid.
 
 👨🏻‍💻 I am a software developer who is most passionate about creating technology for the community. </br>
