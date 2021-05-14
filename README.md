@@ -4,7 +4,6 @@
 
 👨🏻‍💻 I am a software developer who is passionate about making code creating technology to build a community. </br>
 
-⌨️ I am passionate about mechanical keyboards for programming.
 
 ### Skills:
 
