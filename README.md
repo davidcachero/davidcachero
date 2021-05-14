@@ -29,6 +29,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Cachero_Mezcua-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-cachero-mezcua/)
 [![Twitter](https://img.shields.io/badge/Twitter-David%20Cachero%20Mezcua-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_davidcachero_)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidcachero&theme=monokai&locale=en&layout=compact" width="50%" alt="davidcachero" /> 
+
+
 
 <!--
 **davidcachero/davidcachero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
