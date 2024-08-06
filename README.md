@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&letterSpacing=&pause=1000&color=F70000&background=FF323200&repeat=false&width=490&height=100&lines=Hello%2C+my+name+is+David)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=35&pause=1000&repeat=false&width=435&lines=Hello%2C+my+name+is+David)](https://git.io/typing-svg)
 
 ## 🛡️ Cybersecurity and Ethical Hacking
 
