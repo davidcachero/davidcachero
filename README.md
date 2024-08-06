@@ -2,7 +2,8 @@
 
 ## 🛡️ Cybersecurity and Ethical Hacking
 
-I am a passionate cybersecurity professional with over 2 years of experience in the field.
+I am a passionate cybersecurity professional with over 2 years of experience in the field. <br>
+
 My goal is to protect systems and networks against cyber threats.
 
 ## 🔐 Areas of expertise
